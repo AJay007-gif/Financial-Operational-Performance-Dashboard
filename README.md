@@ -49,15 +49,15 @@ The dataset contains financial information including:
 
 Provides a high-level overview of organizational performance.
 
-### Budget vs Actual Analysis
+### Sales Performance Analysis
 
 Compares actual financial performance against planned budget.
 
-### Profitability Analysis
+### Profitability and Margin Analysis
 
 Evaluates profit contribution across products and regions.
 
-### Trend Analysis
+### Operational Performance Analysis
 
 Identifies revenue and profit trends over time.
 
