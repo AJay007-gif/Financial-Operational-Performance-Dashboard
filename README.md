@@ -1,12 +1,21 @@
-# Financial-Analytics-Dashboard
+# Financial & Operational Performance Dashboard
 
 ## Project Overview
 
-This project analyzes financial performance using Power BI. The dashboard provides visibility into revenue, profit, expenses, budget utilization, and variance trends to support data-driven business decision-making.
+This project delivers an end-to-end Business Intelligence solution built on a financial dataset. The report transforms transactional sales data into an interactive, multi-page Power BI dashboard that enables stakeholders to monitor performance across sales, profitability, and operations; all filterable by Year, Country, Segment, and Product.
 
 ## Business Problem
 
-Organizations often struggle to monitor financial performance across departments and identify areas where actual spending deviates from budget. This dashboard helps stakeholders quickly identify trends, risks, and opportunities through interactive visualizations.
+Organizations operating multi-segment, multi-country sales operations often lack real-time visibility into the metrics that drive strategic decisions. Without a unified analytics solution, leadership teams struggle to answer critical questions such as:
+
+* Revenue & Profitability — Which markets and customer segments generate the most revenue and the highest profit margins?
+* Discount Impact — Are current discounting strategies helping or hurting overall profitability?
+* Product Performance — Which products deliver the strongest margins, and which are underperforming?
+* Sales Trends — How are sales and unit volumes trending month-over-month, and what seasonal patterns exist?
+* Resource Allocation — Where should leadership prioritize pricing strategy, sales effort, and resource investment?
+
+Finance and operations teams are often left relying on disconnected spreadsheets, delayed reporting cycles, and manual calculations thus, slowing decision-making and obscuring strategic opportunities that could drive growth.
+This project addresses that gap by building an interactive Power BI dashboard that consolidates financial and operational data into a single, real-time analytical view, enabling data-driven decisions across sales, profitability, and operations.
 
 ## Dataset
 
@@ -32,9 +41,6 @@ The dataset contains financial information including:
 * Total Revenue
 * Total Expenses
 * Total Profit
-* Budget vs Actual
-* Variance
-* Variance %
 * Profit Margin %
 
 ## Dashboard Pages
