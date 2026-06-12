@@ -8,11 +8,11 @@ This project delivers an end-to-end Business Intelligence solution built on a fi
 
 Organizations operating multi-segment, multi-country sales operations often lack real-time visibility into the metrics that drive strategic decisions. Without a unified analytics solution, leadership teams struggle to answer critical questions such as:
 
-* Revenue & Profitability — Which markets and customer segments generate the most revenue and the highest profit margins?
-* Discount Impact — Are current discounting strategies helping or hurting overall profitability?
-* Product Performance — Which products deliver the strongest margins, and which are underperforming?
-* Sales Trends — How are sales and unit volumes trending month-over-month, and what seasonal patterns exist?
-* Resource Allocation — Where should leadership prioritize pricing strategy, sales effort, and resource investment?
+* Revenue & Profitability:  Which markets and customer segments generate the most revenue and the highest profit margins?
+* Discount Impact:  Are current discounting strategies helping or hurting overall profitability?
+* Product Performance: Which products deliver the strongest margins, and which are underperforming?
+* Sales Trends: How are sales and unit volumes trending month-over-month, and what seasonal patterns exist?
+* Resource Allocation: Where should leadership prioritize pricing strategy, sales effort, and resource investment?
 
 Finance and operations teams are often left relying on disconnected spreadsheets, delayed reporting cycles, and manual calculations thus, slowing decision-making and obscuring strategic opportunities that could drive growth.
 This project addresses that gap by building an interactive Power BI dashboard that consolidates financial and operational data into a single, real-time analytical view, enabling data-driven decisions across sales, profitability, and operations.
