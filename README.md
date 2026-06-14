@@ -17,17 +17,28 @@ Organizations operating multi-segment, multi-country sales operations often lack
 Finance and operations teams are often left relying on disconnected spreadsheets, delayed reporting cycles, and manual calculations thus, slowing decision-making and obscuring strategic opportunities that could drive growth.
 This project addresses that gap by building an interactive Power BI dashboard that consolidates financial and operational data into a single, real-time analytical view, enabling data-driven decisions across sales, profitability, and operations.
 
-## Dataset
+## Dataset Overview
+
+Source File: Financial_Sample.xlsx
+Record Volume: ~700 rows of transactional sales data
+Time Period: September 2013 — December 2014 (16 months)
 
 The dataset contains financial information including:
 
-* Revenue
-* Expenses
-* Profit
-* Discounts
-* Product Categories
-* Geographic Regions
-* Time Periods
+Field	Description
+Segment	Customer segment (Government, Small Business, Enterprise, Midmarket, Channel Partners)
+Country	5 countries: USA, Canada, France, Germany, Mexico
+Product	6 products: Paseo, VTT, Velo, Amarilla, Montana, Carretera
+Units Sold	Quantity of units sold per transaction
+Manufacturing Price	Cost to manufacture per unit
+Sale Price	Revenue per unit
+Gross Sales	Total gross revenue before discounts
+Discounts	Discount amount applied
+Sales	Net sales after discounts
+COGS	Cost of Goods Sold
+Profit	Net profit per transaction
+Date / Month / Year	Time dimensions for trend analysis
+Data Quality: Clean, structured dataset suitable for financial modelling and BI development without significant transformation requirements.
 
 ## Tools Used
 
