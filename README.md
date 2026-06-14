@@ -58,7 +58,38 @@ Data Quality: Clean, structured dataset suitable for financial modelling and BI 
 * Total Profit
 * Profit Margin %
 
-## Dashboard Pages
+## Dashboard Summary
+
+The report is organized into four pages, each addressing a distinct analytical domain:
+
+### Page 1 — Executive Summary (Overview)
+This provides a high-level overview of organizational performance presenting the most critical KPIs at a glance:
+* Total Sales: $118.73M
+* Total Profit: $16.89M
+* Profit Margin: 14.23%
+* Total Units Sold: 1M
+Visuals include a Sales Performance Trend line chart (monthly), Revenue by Business Segment bar chart, Regional Profitability Analysis (horizontal bar), and a Total Profit by Country map — giving executives a complete strategic snapshot in one view.
+
+### Page 2 — Sales Performance Analysis
+Drills into revenue distribution with four focused visuals:
+* Revenue by Country (horizontal bar) — ranked from highest (USA: $25.03M) to lowest (Mexico: $20.95M)
+* Revenue by Segment (treemap) — Government and Small Business dominate revenue share
+* Total Sales by Product (vertical bar) — Paseo is the clear top-selling product
+* Monthly Sales Trend (line chart) — reveals seasonality and peak sales periods
+
+### Page 3 — Profitability & Margin Analysis
+Examines the relationship between sales, discounts, and profit:
+* Total Profit by Product (bar chart) — Paseo leads profit generation
+* Profit Margin % by Product (column chart) — all products maintain margins in the 10–20% range; Amarilla and VTT lead
+* Sales vs. Profit Analysis (scatter chart) — positive correlation between sales volume and profit, with VTT as a standout
+* Discount Impact on Profitability (scatter chart) — illustrates how discount levels relate to profit outcomes by product
+
+### Page 4 — Operational Performance Analysis
+Evaluates product-level operational efficiency:
+* Sum of Units Sold by Product (bar chart) — Paseo leads unit volume significantly
+* Sum of Manufacturing Price and Sum of Profit by Product (scatter) — identifies cost-efficiency outliers
+* Sum of Sales and Sum of Profit by Product (scatter) — maps revenue-to-profit efficiency across the portfolio
+* Units Sold Trend Over Time (line chart) — monthly unit volume fluctuations throughout 2013–2014
 
 ### Executive Summary
 
