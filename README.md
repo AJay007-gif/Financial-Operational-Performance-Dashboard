@@ -25,19 +25,23 @@ Time Period: September 2013 — December 2014 (16 months)
 
 The dataset contains financial information including:
 
-Field	Description
-Segment	Customer segment (Government, Small Business, Enterprise, Midmarket, Channel Partners)
-Country	5 countries: USA, Canada, France, Germany, Mexico
-Product	6 products: Paseo, VTT, Velo, Amarilla, Montana, Carretera
-Units Sold	Quantity of units sold per transaction
-Manufacturing Price	Cost to manufacture per unit
-Sale Price	Revenue per unit
-Gross Sales	Total gross revenue before discounts
-Discounts	Discount amount applied
-Sales	Net sales after discounts
-COGS	Cost of Goods Sold
-Profit	Net profit per transaction
-Date / Month / Year	Time dimensions for trend analysis
+## Dataset Description
+
+| Field | Description |
+|---------|---------|
+| Segment | Customer segment (Government, Small Business, Enterprise, Midmarket, Channel Partners) |
+| Country | USA, Canada, France, Germany, Mexico |
+| Product | Paseo, VTT, Velo, Amarilla, Montana, Carretera |
+| Units Sold | Quantity of units sold per transaction |
+| Manufacturing Price | Cost to manufacture each unit |
+| Sale Price | Revenue generated per unit sold |
+| Gross Sales | Total revenue before discounts |
+| Discounts | Discount amount applied to sales |
+| Sales | Net sales after discounts |
+| COGS | Cost of Goods Sold |
+| Profit | Net profit per transaction |
+| Date / Month / Year | Time dimensions used for trend analysis |
+
 Data Quality: Clean, structured dataset suitable for financial modelling and BI development without significant transformation requirements.
 
 ## Tools Used
