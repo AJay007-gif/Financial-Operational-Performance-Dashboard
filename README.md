@@ -1,9 +1,10 @@
 # Financial & Operational Performance Dashboard
 
 ## Executive Summary
+
 This project demonstrates the ability to take a raw financial dataset and transform it into a production-grade, multi-page Power BI dashboard that directly supports strategic and operational decision-making.
 Headline findings:
-The business generated $118.73M in total sales and $16.89M in profit (14.23% margin) across 5 countries, 5 customer segments, and 6 products over a 16-month period. Revenue is relatively balanced across geographies, but the Government segment dominates at 44% of revenue. Paseo is the flagship product — leading both revenue and volume. Profitability analysis reveals that while core margins are healthy, discount practices and product mix inefficiencies present clear opportunities for margin improvement estimated in the $2–5M range.
+The business generated $118.73M in total sales and $16.89M in profit (14.23% margin) across 5 countries, 5 customer segments, and 6 products over a 16-month period. Revenue is relatively balanced across geographies, but the Government segment dominates at 44% of revenue. Paseo is the flagship product, leading both revenue and volume. Profitability analysis reveals that while core margins are healthy, discount practices and product mix inefficiencies present clear opportunities for margin improvement estimated in the $2–5M range.
 
 ## Project Overview
 
@@ -154,12 +155,3 @@ Evaluates product-level operational efficiency:
 | Trend & Forecast Analysis | Identified monthly and seasonal trends to support planning and decision-making |
 | Business Storytelling | Developed executive-focused dashboards that communicate insights clearly and effectively |
 | Data-Driven Recommendations | Generated actionable recommendations based on sales, profit, and operational performance patterns |
-
-
-* Financial Analysis
-* KPI Development
-* Data Visualization
-* Dashboard Design
-* Power Query Data Transformation
-* DAX Measure Development
-* Business Intelligence Reporting
