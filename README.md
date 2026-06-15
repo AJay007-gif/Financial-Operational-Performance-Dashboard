@@ -74,6 +74,7 @@ This provides a high-level overview of organizational performance presenting the
 * Total Profit: $16.89M
 * Profit Margin: 14.23%
 * Total Units Sold: 1M
+
 ![Executive Summary](Executive%20Summary.PNG)
 
 ### Page 2: Sales Performance Analysis
@@ -82,6 +83,7 @@ Drills into revenue distribution with four focused visuals:
 * Revenue by Segment (treemap):  Government and Small Business dominate revenue share
 * Total Sales by Product (vertical bar) : Paseo is the clear top-selling product
 * Monthly Sales Trend (line chart) : reveals seasonality and peak sales periods
+
 ![Sales Analysis](Sales%20Performance%20Analysis.PNG)
 
 ### Page 3: Profitability & Margin Analysis
@@ -90,6 +92,7 @@ Examines the relationship between sales, discounts, and profit:
 * Profit Margin % by Product (column chart) : all products maintain margins in the 10–20% range; Amarilla and VTT lead
 * Sales vs. Profit Analysis (scatter chart) : positive correlation between sales volume and profit, with VTT as a standout
 * Discount Impact on Profitability (scatter chart) : illustrates how discount levels relate to profit outcomes by product
+
 ![Profitability Analysis](Profitability%20%26%20Margin%20Analysis.PNG)
 
 ### Page 4: Operational Performance Analysis
@@ -98,6 +101,7 @@ Evaluates product-level operational efficiency:
 * Sum of Manufacturing Price and Sum of Profit by Product (scatter) : identifies cost-efficiency outliers
 * Sum of Sales and Sum of Profit by Product (scatter) : maps revenue-to-profit efficiency across the portfolio
 * Units Sold Trend Over Time (line chart) : monthly unit volume fluctuations throughout 2013–2014
+
 ![Operational Performance](Operational%20Performance%20Analysis.PNG)
 
 ## Key Insights
